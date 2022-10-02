@@ -1,2 +1,2 @@
 # NLP Top Titles
-This repository, contains several projects
+This repository, contains several projects in NLP.
